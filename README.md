@@ -16,7 +16,7 @@ d = wstmi(clean_speech, degraded_speech, sampling_frequency);
 * ```degraded_speech```: An array containing a single-channel degraded/processed speech signal.
 * ```sampling_frequency```: The sampling frequency of the input signals in ```Hz```.
 
-Note that the clean and degraded speech signals must be time-aligned and of the same length. The output ```d``` is expected to have a monotonic relation with speech intelligibility, where a higher d denotes better intelligible speech. For 
+Note that the clean and degraded speech signals must be time-aligned and of the same length. The output ```d``` is expected to have a monotonic relation with speech intelligibility, where a higher d denotes better intelligible speech.
 
 
 ## Citing wSTMI
