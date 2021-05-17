@@ -35,9 +35,3 @@ If you use wSTMI, please cite the reference below:
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
-"# wstmi" 
-"# wstmi" 
-"# wstmi" 
-"# wstmi" 
-"# wstmi" 
-"# wstmi" 
